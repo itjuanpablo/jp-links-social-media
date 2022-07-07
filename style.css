@@ -23,7 +23,7 @@ body.dark {
 body {
   background: var(--bg-color);
   color: var(--text-color);
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .container {
